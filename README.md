@@ -35,5 +35,6 @@ infernizar a vida de qualquer homem que se aproximar. Os dois se conhecem em um
 bar e escolhem um ao outro como alvo de seus planos totalmente opostos.
 
 http://127.0.0.1:5501/ex_1filme/index.html
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d3c87adc-588b-452f-98b2-3cb4a4380a37" />
+
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/d3c87adc-588b-452f-98b2-3cb4a4380a37" />
 
