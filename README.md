@@ -34,11 +34,4 @@ diamantes. Andie é uma jornalista que, por causa de uma matéria, está decidid
 infernizar a vida de qualquer homem que se aproximar. Os dois se conhecem em um
 bar e escolhem um ao outro como alvo de seus planos totalmente opostos.
 
-🔗 LINKS
-
-TRAILER NO YOUTUBE
-
-MAIS INFORMAÇÕES NO ADOROCINEMA
-
-
 <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/1203184c-cf4a-4131-bb34-4351b727e168" />
